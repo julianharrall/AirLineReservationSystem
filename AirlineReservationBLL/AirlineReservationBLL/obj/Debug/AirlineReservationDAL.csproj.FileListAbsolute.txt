@@ -1,0 +1,8 @@
+C:\Users\jules\Documents\Visual Studio 2010\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jules\Documents\Visual Studio 2010\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\bin\Debug\AirlineReservationDAL.dll.config
+C:\Users\jules\Documents\Visual Studio 2010\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\bin\Debug\AirlineReservationDAL.dll
+C:\Users\jules\Documents\Visual Studio 2010\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\bin\Debug\AirlineReservationDAL.pdb
+C:\Users\jules\Documents\Visual Studio 2010\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\obj\Debug\AirlineReservationDAL.dll
+C:\Users\jules\Documents\Visual Studio 2010\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\obj\Debug\AirlineReservationDAL.pdb
+C:\Users\jules\Documents\Visual Studio 2010\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\bin\Debug\EncryptDecrypt.dll
+C:\Users\jules\Documents\Visual Studio 2010\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\bin\Debug\EncryptDecrypt.pdb
