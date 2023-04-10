@@ -1,0 +1,70 @@
+﻿Flippie 
+http://www.windows-tech.info/3/c7644a620e42cdba.php
+
+ 
+
+Man i found something that i hope will work for you as well.
+
+I have a form by the name of mdiAuthor. The Windowstate MUST be minimized in the design view
+
+
+
+
+Code Block
+
+'Load the form into a variable mdlAuthor as new form. I declared it publically 
+
+'for various reasons
+
+mdlAuthor = mdiAuthor
+
+
+mdlAuthor.MdiParent = mdiMainParent
+
+mdlAuthor.Show()
+
+
+'Here i hide the thing. 
+
+mdlAuthor.Visible = False
+
+ 
+
+'As you can see i basically move it off screen
+
+mdlAuthor.Top = 30
+
+'I think this is in the see
+
+mdlAuthor.Left = 3000
+
+
+'Size it back
+
+mdlAuthor.WindowState = FormWindowState.Normal
+
+
+'Now this is interesting. I have been told in another post that this will halt the layout on the front. Needless to say, it did not work as advertised. 
+
+mdlAuthor.SuspendLayout()
+
+
+'Make it visible again while it is off screen.
+
+mdlAuthor.Visible = True
+
+'Move it into position
+
+mdlAuthor.Left = 300
+
+
+'This bit is a waste as well byt there you have it.
+
+mdlAuthor.ResumeLayout()
+
+
+
+And in my case bobs my uncle. Anyway i googled for something like four hours straight and some of the things i saw there hardly made sense and were in C too boot. This is as far as my own creative thinking goes.
+Now i have like 50 forms to implement it on.
+Anyway if any of you brainiacs found a better solution then please let me know.
+I love mdi for the control they provide and as i load it in a variable i can dispose it when i am fed up with it

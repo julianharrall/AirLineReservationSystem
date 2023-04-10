@@ -1,0 +1,539 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AirLineReservationSystem</name>
+    </assembly>
+    <members>
+        <member name="F:AirLineReservationSystem.AdminContext.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.AdminContext.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.AdminContext.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AirLineReservationSystem.Administration.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.Administration.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.Administration.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AirLineReservationSystem.AdminLogin.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.AdminLogin.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.AdminLogin.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AirLineReservationSystem.AdminPassword.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.AdminPassword.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.AdminPassword.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AirLineReservationSystem.Admin.AdminRestoreDBLogin.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.Admin.AdminRestoreDBLogin.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.Admin.AdminRestoreDBLogin.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AirLineReservationSystem.Admin.SqlLogFiles.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.Admin.SqlLogFiles.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.Admin.SqlLogFiles.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AirLineReservationSystem.AircraftTab.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.AircraftTab.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.AircraftTab.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AirLineReservationSystem.AirportTab.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.AirportTab.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.AirportTab.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AirLineReservationSystem.DataBaseTab.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.DataBaseTab.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.DataBaseTab.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AirLineReservationSystem.DestinationTab.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.DestinationTab.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.DestinationTab.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AirLineReservationSystem.FlightTab.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.FlightTab.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.FlightTab.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AirLineReservationSystem.FlightTabTest.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.FlightTabTest.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.FlightTabTest.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:AirLineReservationSystem.AirlineReservationDataSet">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:AirLineReservationSystem.AirlineReservationDataSet.SqlLogTableDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:AirLineReservationSystem.AirlineReservationDataSet.SqlLogTableRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:AirLineReservationSystem.AirlineReservationDataSet.SqlLogTableRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:AirLineReservationSystem.AirlineReservationDataSetTableAdapters.SqlLogTableTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:AirLineReservationSystem.AirlineReservationDataSetTableAdapters.TableAdapterManager">
+             <summary>
+            TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.AirlineReservationDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(AirLineReservationSystem.AirlineReservationDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Update rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.AirlineReservationDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(AirLineReservationSystem.AirlineReservationDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Insert rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.AirlineReservationDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(AirLineReservationSystem.AirlineReservationDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Delete rows in bottom-up order.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.AirlineReservationDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.AirlineReservationDataSetTableAdapters.TableAdapterManager.UpdateAll(AirLineReservationSystem.AirlineReservationDataSet)">
+             <summary>
+            Update all changes to the dataset.
+            </summary>
+        </member>
+        <member name="T:AirLineReservationSystem.AirlineReservationDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+             <summary>
+            Update Order Option
+            </summary>
+        </member>
+        <member name="T:AirLineReservationSystem.AirlineReservationDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+             <summary>
+            Used to sort self-referenced table's rows
+            </summary>
+        </member>
+        <member name="F:AirLineReservationSystem.BookFlightTest.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.BookFlightTest.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.BookFlightTest.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AirLineReservationSystem.Confirmation.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.Confirmation.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.Confirmation.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AirLineReservationSystem.FindFlight.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.FindFlight.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.FindFlight.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AirLineReservationSystem.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AirLineReservationSystem.Passenger_Details.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.Passenger_Details.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.Passenger_Details.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:AirLineReservationSystem.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources._2_Screen_Shot_2020_12_30_at_085327">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.AdminLogin">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.back1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.cloud_creatures1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.credit_card">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.credit_cards_d_illustration_business_49026732">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.cyprus">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.flight_deals1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.flight_tracker_jet">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.forward">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.france">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.germany">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.holiday">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.hungary">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.imagesCAO0M0UQ">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.italy">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.Jet_Airplanes_in_sky_images2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.new_civil_aircraft_wallpaper">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.passengers1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.passport">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.portugal">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:AirLineReservationSystem.Properties.Resources.spain">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.ReserveFlight.populateLists">
+            <summary>
+            Populate the static Lists for Card and Address detail        
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.ReserveFlight.CheckFields">
+            <summary>
+            Check there is the required data in all fields
+            to enable to move to next tab
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:AirLineReservationSystem.ReserveFlight.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.ReserveFlight.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.ReserveFlight.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:AirLineReservationSystem.Start.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AirLineReservationSystem.Start.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AirLineReservationSystem.Start.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>
