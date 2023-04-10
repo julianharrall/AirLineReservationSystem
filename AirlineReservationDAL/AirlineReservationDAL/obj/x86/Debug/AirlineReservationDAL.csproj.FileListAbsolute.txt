@@ -1,0 +1,12 @@
+C:\Users\julia\source\repos\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\bin\x86\Debug\AirlineReservationDAL.dll.config
+C:\Users\julia\source\repos\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\bin\x86\Debug\AirlineReservationDAL.dll
+C:\Users\julia\source\repos\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\bin\x86\Debug\AirlineReservationDAL.pdb
+C:\Users\julia\source\repos\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\bin\x86\Debug\EncryptDecrypt.dll
+C:\Users\julia\source\repos\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\bin\x86\Debug\EncryptDecrypt.pdb
+C:\Users\julia\source\repos\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\bin\x86\Debug\EncryptDecrypt.dll.config
+C:\Users\julia\source\repos\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\bin\x86\Debug\EncryptDecrypt.exe.config
+C:\Users\julia\source\repos\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\obj\x86\Debug\AirlineReservationDAL.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\obj\x86\Debug\AirlineReservationDAL.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\obj\x86\Debug\AirlineReservationDAL.csproj.CopyComplete
+C:\Users\julia\source\repos\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\obj\x86\Debug\AirlineReservationDAL.dll
+C:\Users\julia\source\repos\Projects\C#\AirlineReservationDAL\AirlineReservationDAL\obj\x86\Debug\AirlineReservationDAL.pdb
